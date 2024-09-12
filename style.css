@@ -1,6 +1,7 @@
 body {
     font-family: "Tahoma", sans-serif;
     background-color: rgba(49, 191, 87, 0.262);
+    margin-left: 75px;
 }
 
 .recipe-title{
