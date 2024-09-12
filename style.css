@@ -1,0 +1,9 @@
+body {
+    font-family: "Tahoma", sans-serif;
+    background-color: rgba(49, 191, 87, 0.262);
+}
+
+.recipe-title{
+    text-align: center;
+    font-size: 60px;
+}
