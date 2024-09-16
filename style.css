@@ -25,4 +25,5 @@ h1{
 .recipe-list{
     background-color: rgba(47, 191, 235, 0.549);
     width: max-content;
+    padding: 5px 20px 5px 10px;
 }
