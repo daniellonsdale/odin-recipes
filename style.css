@@ -23,5 +23,6 @@ h1{
 }
 
 .recipe-list{
-    background-color: rgba(47, 191, 235, 0.262);
+    background-color: rgba(47, 191, 235, 0.549);
+    width: max-content;
 }
